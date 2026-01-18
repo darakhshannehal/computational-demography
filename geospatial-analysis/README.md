@@ -66,6 +66,7 @@ Connect environmental data to population-relevant locations
 -   Milos Makes Maps - YouTube
 
 -   <https://www.paulamoraga.com/book-spatial/>
+-   https://rspatialdata.github.io/
 
 #### **Next Step: Geospatial data analysis in R**
 
